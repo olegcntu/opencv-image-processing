@@ -1,0 +1,7 @@
+*.autosave
+*.pro.user
+build*/
+.vs/
+x64/
+Debug/
+Release/
